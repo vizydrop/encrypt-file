@@ -1,0 +1,13 @@
+{
+  "name": "@vizydrop/encrypt-file",
+  "version": "1.0.0",
+  "description": "encrypt and decrypt .env file",
+  "main": "index.js",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "@vizydrop",
+  "license": "MIT"
+}
